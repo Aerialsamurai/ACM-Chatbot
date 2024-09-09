@@ -1,0 +1,9 @@
+langchain
+openai
+huggingface_hub
+langchain_openai
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
